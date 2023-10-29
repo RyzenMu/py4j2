@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/c/Downloads/jar_files/py4j-0.10.9.7.jar"
+    ]
+}
